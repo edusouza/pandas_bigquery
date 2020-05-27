@@ -1,2 +1,2 @@
 # pandas_bigquery
-Docker image with Pandigquery python library
+Docker image with Pandas and Google Bigquery™ python library
